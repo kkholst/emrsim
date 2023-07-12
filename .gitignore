@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.rds
+inst/simulation_2/policy_evaluation/pe_ql_(q_sl)_(g_sl)/out.txt
+.DS_Store
+inst/simulation_2/policy_visualization/blip_contour.zip
